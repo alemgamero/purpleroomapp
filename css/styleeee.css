@@ -1,0 +1,42 @@
+#picture{
+	align-content: center;
+	background-color: #EBE4E4;
+;
+}
+
+.picpic{
+	align-content: center;
+}
+
+#picture h2{
+	text-align: center;
+	padding: 50px;
+}
+
+#picture h4{
+	font-size: 20px;
+	text-align: left;
+}
+
+#theme {
+	padding: 70px 160px;
+}
+
+#theme h4{
+	align-content: center;
+	background-color: #EBE4E4
+}
+
+#theme p{
+	font-size: 15px;
+	background-color: #EBE4E4;
+}
+
+#theme i{
+	font-size: 30px;
+	background-color: #EBE4E4
+}
+.row {
+	padding: 50px 10px;
+	background-color: #EBE4E4
+}

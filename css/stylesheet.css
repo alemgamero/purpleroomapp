@@ -1,0 +1,133 @@
+header{
+	background-color: #000000;
+	text-align: right;
+}
+
+#info {
+	align-content: center;
+	padding: 70px 40px;
+}
+
+#info h4{
+	font-family: Tumbly;
+	font-size: 25px;
+	margin-top: 50px;
+	margin-bottom: 40px;
+	align-content: center;
+	font-weight: 900;
+}
+
+#info h5{
+	font-family: "Century Gothic", "Champagne & Limousines";
+	font-size: 18px;
+	margin-bottom: 30px;
+	align-items: center;
+	align-content: center;
+}
+
+#funcion {
+	align-content: center;
+	padding: 70px 40px;
+	text-align: center;
+	background-color: #F2F2F4;
+}
+
+#funcion h4{
+	font-family: Tumbly;
+	font-size: 25px;
+	margin-bottom: 80px;
+	align-content: center;
+	font-weight: 900;
+}
+
+#funcion h5{
+	font-family: "Century Gothic", "Champagne & Limousines";
+	font-size: 18px;
+	margin-top: 30px;
+	align-items: center;
+	align-content: center;
+}
+
+#funcion h6{
+	margin-top: 40px;
+}
+
+#beneficios {
+	align-content: center;
+	padding: 70px 40px;
+	text-align: center;
+	background-color: #FFFFFF;
+}
+
+#beneficios h4{
+	font-family: Tumbly;
+	font-size: 25px;
+	margin-bottom: 80px;
+	align-content: center;
+	font-weight: 900;
+}
+
+#beneficios h5{
+	font-family: "Century Gothic", "Champagne & Limousines";
+	font-size: 18px;
+	margin-top: 30px;
+	text-align: left;
+	line-height: 30px;
+}
+
+#beneficios h6{
+	font-family: "Century Gothic", "Champagne & Limousines";
+	font-size: 18px;
+	margin-top: 30px;
+	text-align: left;
+	line-height: 30px;
+	margin-bottom: 150px;
+}
+
+#information {
+	align-content: center;
+	padding: 70px 40px;
+	text-align: center;
+	background-image: url("../img/newsletter-01-01.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: #F2F2F4;
+}
+
+#information h4{
+	font-family: Tumbly;
+	font-size: 25px;
+	margin-bottom: 80px;
+	align-content: center;
+	font-weight: 900;
+}
+
+footer {
+	color: #FFFFFF;
+	background-color: #000000;
+	padding: 2px;
+	height: 30px;
+	align-content: center;
+}
+footer h4{
+	font-size: 13px;
+	text-align: center;
+}
+
+#download{
+	align-content: center;
+	padding: 70px 40px;
+	text-align: center;
+	background-color: #FFFFFF;
+	padding: 150px 0;
+}
+
+#download h4{
+	font-family: Tumbly;
+	font-size: 15px;
+	margin-bottom: 05px;
+	align-content: center;
+	font-weight: 900;
+	padding: 0 35px;
+}
